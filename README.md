@@ -26,7 +26,7 @@ My research interests are:
 - **Ph.D.** — Information & Systems Engineering, Concordia University (Montreal)  
   *Co-supervised with Imperial College London*
 - **Postdoc** — University of Alberta & University of New Brunswick
-- Published in **top-tier journals and conferences** across AI and distributed optimization
+- Published in **top-tier journals and conferences** across AI, distributed optimization, and differential privacy.
 
 ---
 
