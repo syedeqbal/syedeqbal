@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner - use a custom tool like capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Multi-Modal%20Intelligence&descSize=16&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Multi-Modal%20Intelligence&descSize=16&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
 
 <div align="center">
 
@@ -70,17 +70,7 @@ My research interests are:
 ---
 
 <!-- <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p> -->
-<!--
-**syedeqbal/syedeqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=120&section=footer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
