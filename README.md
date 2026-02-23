@@ -11,7 +11,7 @@
 
 ---
 
-### What I Do
+### 
 
 I lead research and development of **multi-modal agentic AI systems** that fuse video, audio, and text intelligence to solve real industrial challenges — from anomaly detection and smart monitoring to predictive maintenance.
 
