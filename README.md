@@ -51,6 +51,8 @@ My research interests are:
 ### 📝 Recent Publications
 
 - Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-Agent System, 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023.
+
+- Distributed algorithms for Internet-of-Things-enabled prosumer markets: A control theoretic perspective
 ---
 
 <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p>
