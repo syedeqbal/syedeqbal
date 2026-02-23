@@ -1,13 +1,18 @@
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Syed%20Eqbal%20Alam&fontSize=40)
-<p align="center">
-  <b>AI Research Scientist · Agentic AI · Multi-Modal Intelligence · Industrial AI</b>
-</p>
+<!-- Hero Banner - use a custom tool like capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Multi-Modal%20Intelligence&descSize=16&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
 
 <p align="center">
   <a href="https://ca.linkedin.com/in/seqbal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://scholar.google.com/citations?user=8PZoDZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
 </p>
+
+
+</div>
+
+
+
 
 ---
 
