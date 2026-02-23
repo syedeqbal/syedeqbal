@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+I am Syed Eqbal Alam. I lead the research and development of multi-modal agentic AI systems that integrate video, audio, and text intelligence to solve industrial problems, such as anomaly detection, smart monitoring, and predictive maintenance. My research spans agentic AI systems, distributed optimization, multi-agent systems, federated learning, and differential privacy. I have authored and co-authored several high-quality research papers in top-tier journals and conferences in these areas. I earned a Ph.D. in Information and Systems Engineering from Concordia University (Montreal), co-supervised by professors at Concordia and Imperial College London. I completed postdoctoral research at the University of Alberta and the University of New Brunswick. I bring research depth and hands-on experience, taking AI systems from prototype to deployment.
 
 <!--
 **syedeqbal/syedeqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
