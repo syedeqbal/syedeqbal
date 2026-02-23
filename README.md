@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://ca.linkedin.com/in/seqbal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://scholar.google.com/citations?user=8PZoDZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://www.seqbal.com"><img src="https://img.shields.io/badge/Personal Webpage-FF5722?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Dr.SyedEqbal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 
