@@ -50,9 +50,11 @@ My research interests are:
 
 ### 📝 Selected Publications
 
+- AI Agentic solutions for Fault Detection and Cause Analysis in Network Telemetry, under-review.
+
 - Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-Agent System, 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023.
 
-- Distributed algorithms for Internet-of-Things-enabled prosumer markets: A control theoretic perspective
+- Syed Eqbal Alam, Robert Shorten, Fabian Wirth, Jia Yuan Yu, Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective, Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives, Springer, 2020.
 ---
 
 <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p>
