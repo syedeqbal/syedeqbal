@@ -57,7 +57,7 @@ My research interests are:
 - Syed Eqbal Alam, Robert Shorten, Fabian Wirth, Jia Yuan Yu, Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective, Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives, Springer, 2020.
 ---
 
-<p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p>
+<!-- <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p> -->
 <!--
 **syedeqbal/syedeqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
