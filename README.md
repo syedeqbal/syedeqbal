@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Syed Eqbal Alam 👋</h1>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Syed%20Eqbal%20Alam&fontSize=40)
 <p align="center">
   <b>AI Research Scientist · Agentic AI · Multi-Modal Intelligence · Industrial AI</b>
 </p>
