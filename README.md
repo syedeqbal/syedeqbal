@@ -15,7 +15,7 @@
 
 I lead research and development of **multi-modal agentic AI systems** that fuse video, audio, and text intelligence to solve real industrial challenges — from anomaly detection and smart monitoring to predictive maintenance.
 
-My research sits at the intersection of:
+My research interests are:
 
 🤖 **Agentic AI & Multi-Agent Systems** · ⚙️ **Distributed Optimization** · 📡 **Federated Learning** · 🔐 **Differential Privacy**
 
