@@ -49,7 +49,7 @@ My research interests are:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔍 System for Fault Detection and Cause analysis | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
+| 🔍 System for Fault Detection and Cause Analysis | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
 | 🤖 Agentic AI Framework | Distributed multi-agent orchestration | Python, Pytorch, Langchain, Ollama, Small and Large Language models|
 
 ---
@@ -66,5 +66,3 @@ My research interests are:
 <!-- <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=120&section=footer)
-
-
