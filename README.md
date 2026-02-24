@@ -39,9 +39,20 @@ My research interests are:
 
 ### 🛠️ Tech & Tools
 
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+#### AI & Models
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat&logo=openai&logoColor=white)
+![SLM](https://img.shields.io/badge/SLM-4ECDC4?style=flat&logo=openai&logoColor=white)
+![Vision Model](https://img.shields.io/badge/Vision_Model-845EC2?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
