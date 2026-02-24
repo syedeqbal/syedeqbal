@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Hero Banner - use a custom tool like capsule-render -->
+<!-- Hero Banner - capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Multi-Modal%20Intelligence&descSize=16&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+that+Perceive+%26+Act+%F0%9F%A4%96;Multi-Modal+Agentic+AI+for+Industrial+Challenges+%F0%9F%8F%AD;Bridging+Research+%26+Real-World+Deployment+%F0%9F%9A%80;%F0%9F%A4%96+Agentic+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+%E2%9A%99%EF%B8%8F+Distributed+Optimization;%F0%9F%8C%90+Federated+Learning+%C2%B7+%F0%9F%9B%A1%EF%B8%8F+Differential+Privacy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+that+Perceive+%26+Act+%F0%9F%A4%96;Multi-Modal+Agentic+AI+for+Industrial+Automation+Challenges+%F0%9F%8F%AD;Bridging+Research+%26+Real-World+Deployment+%F0%9F%9A%80;%F0%9F%A4%96+Agentic+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+%E2%9A%99%EF%B8%8F+Distributed+Optimization;%F0%9F%8C%90+Federated+Learning+%C2%B7+%F0%9F%9B%A1%EF%B8%8F+Differential+Privacy)](https://git.io/typing-svg)
 
 </div>
 <p align="center">
@@ -14,12 +14,7 @@
   <a href="https://www.seqbal.com"><img src="https://img.shields.io/badge/Personal Webpage-FF5722?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Dr.SyedEqbal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
-
-
 </div>
-
-
-
 
 ---
 
@@ -47,7 +42,6 @@ My research interests are:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-<!-- Add what's relevant to you -->
 
 ---
 
@@ -55,8 +49,8 @@ My research interests are:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔍 [Anomaly Detection System](#) | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
-| 🤖 [Agentic AI Framework](#) | Distributed multi-agent orchestration | Python, Pytorch, Langchain, Ollama, Small and Large Language models|
+| 🔍 System for Fault Detection and Cause analysis | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
+| 🤖 Agentic AI Framework | Distributed multi-agent orchestration | Python, Pytorch, Langchain, Ollama, Small and Large Language models|
 
 ---
 
