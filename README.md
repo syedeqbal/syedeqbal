@@ -67,7 +67,7 @@ My research interests are:
 
 ### 📝 Selected Publications
 
-- AI Agentic solutions for Fault Detection and Cause Analysis in Network Telemetry, under-review.
+- AI Agentic solutions for Fault Detection and Cause Analysis in Network Telemetry, under-review at a Q1 AI journal.
 
 - Syed Eqbal Alam, Dhirendra Shukla, Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-Agent System, 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023.
 
