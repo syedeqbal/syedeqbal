@@ -76,4 +76,4 @@ My research interests are:
 
 <!-- <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p> -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=120&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=120&section=footer) -->
