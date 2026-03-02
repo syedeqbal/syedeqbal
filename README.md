@@ -17,7 +17,7 @@
 </div>
 
 ---
-
+<!--
 ### 
 
 I lead research and development of **multi-modal agentic AI systems** that fuse video, audio, and text intelligence to solve real industrial challenges — from anomaly detection and smart monitoring to predictive maintenance.
@@ -63,7 +63,7 @@ My research interests are:
 | 🔍 System for Fault Detection and Cause Analysis | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
 | 🤖 Agentic AI Framework | Distributed multi-agent orchestration | Python, Pytorch, Langchain, Ollama, Small and Large Language models|
 
----
+--- -->
 
 ### 📝 Selected Publications
 
