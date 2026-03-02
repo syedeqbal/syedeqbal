@@ -63,7 +63,7 @@ My research interests are:
 | 🔍 System for Fault Detection and Cause Analysis | Multi-modal pipeline for fault detection and cause analysis in network telemetry system| Python, PyTorch, CSV analysis, Langchain, Ollama|
 | 🤖 Agentic AI Framework | Distributed multi-agent orchestration | Python, Pytorch, Langchain, Ollama, Small and Large Language models|
 
---- -->
+--- 
 
 ### 📝 Selected Publications
 
@@ -72,7 +72,7 @@ My research interests are:
 - Syed Eqbal Alam, Dhirendra Shukla, Communication-efficient Allocation of Multiple Indivisible Resources in a Federated Multi-Agent System, 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023.
 
 - Syed Eqbal Alam, Robert Shorten, Fabian Wirth, Jia Yuan Yu, Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective, Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives, Springer, 2020.
----
+--- -->
 
 <!-- <p align="center"><i>"From prototype to deployment — bridging research depth with engineering execution."</i></p> -->
 
