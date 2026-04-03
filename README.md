@@ -7,14 +7,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+that+Perceive+%26+Act+%F0%9F%A4%96;Multi-Modal+Agentic+AI+for+Industrial+Automation+Challenges+%F0%9F%8F%AD;Multi-Modal+Agentic+AI+for+Education+%F0%9F%8F%AD;Bridging+Research+%26+Real-World+Deployment+%F0%9F%9A%80;%F0%9F%A4%96+Agentic+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+%E2%9A%99%EF%B8%8F+Distributed+Optimization;%F0%9F%8C%90+Federated+Learning+%C2%B7+%F0%9F%9B%A1%EF%B8%8F+Differential+Privacy)](https://git.io/typing-svg)
 
-</div>
 <p align="center">
   <a href="https://ca.linkedin.com/in/seqbal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://scholar.google.com/citations?user=8PZoDZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
   <a href="https://www.seqbal.com"><img src="https://img.shields.io/badge/Personal Webpage-FF5722?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Dr.SyedEqbal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://sheqai.com"><img src="https://img.shields.io/badge/SheQAI-Research-1a6bff?style=flat&logoColor=white"/></a>
 </p>
-</div>
 
 ---
 <!--
