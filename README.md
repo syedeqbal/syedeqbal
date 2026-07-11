@@ -24,7 +24,6 @@ My research interests are:
 
 🤖 **Agentic AI & Multi-Agent Systems** · ⚙️ **Distributed Optimization** · 🖧 **Federated Learning** · 🛡️ **Differential Privacy**
 
----
 
 ### 🎓 Academic Background
 
