@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Infrastructure%20for%20Scientific%20Communication&descSize=15&descAlignY=60&descColor=a8b2d8&animation=fadeIn" alt="header" />
 <br/>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+AI+Infrastructure+for+Scientific+Communication+%F0%9F%94%AC;Turning+Research+Papers+into+Narrated%2C+Grounded+Videos+%F0%9F%8E%AC;Tex2Vid+%C2%B7+LaTeX+papers+to+narrated+video+%E2%9C%8D%EF%B8%8F;ScholarReels+%C2%B7+The+scholarly+index+for+research+videos+%F0%9F%93%BC" alt="Typing SVG" /></a>
-<br/><br/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+AI+Infrastructure+for+Scientific+Communication;Tex2Vid+%C2%B7+LaTeX+source+%E2%86%92+narrated+video;Docs2Vid+%C2%B7+PDF+%2F+DOCX+%E2%86%92+narrated+video;ScholarReels+%C2%B7+The+scholarly+index+for+research+videos" alt="Typing SVG" /></a>
 </div>
 
 <table align="center"><tr>
