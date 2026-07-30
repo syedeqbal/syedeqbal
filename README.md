@@ -1,10 +1,4 @@
 <div align="center">
-
-<!-- Hero Banner - capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Infrastructure%20for%20Scientific%20Communication&descSize=15&descAlignY=60&descColor=a8b2d8&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+AI+Infrastructure+for+Scientific+Communication+%F0%9F%94%AC;Turning+Research+Papers+into+Narrated%2C+Grounded+Videos+%F0%9F%8E%AC;Tex2Vid+%C2%B7+LaTeX+papers+to+narrated+video+%E2%9C%8D%EF%B8%8F;ScholarReels+%C2%B7+The+scholarly+index+for+research+videos+%F0%9F%93%BC;%F0%9F%A4%96+Agentic+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+%E2%9A%99%EF%B8%8F+Distributed+Optimization;%F0%9F%8C%90+Federated+Learning+%C2%B7+%F0%9F%9B%A1%EF%B8%8F+Differential+Privacy)](https://github.com/DenverCoder1/readme-typing-svg)
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e2a4a,100:020818&height=200&section=header&text=Syed%20Eqbal%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Research%20Scientist%20%7C%20Agentic%20AI%20%7C%20Infrastructure%20for%20Scientific%20Communication&descSize=15&descAlignY=60&descColor=a8b2d8&animation=fadeIn" alt="header" />
 <br/>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+AI+Infrastructure+for+Scientific+Communication+%F0%9F%94%AC;Turning+Research+Papers+into+Narrated%2C+Grounded+Videos+%F0%9F%8E%AC;Tex2Vid+%C2%B7+LaTeX+papers+to+narrated+video+%E2%9C%8D%EF%B8%8F;ScholarReels+%C2%B7+The+scholarly+index+for+research+videos+%F0%9F%93%BC" alt="Typing SVG" /></a>
@@ -12,7 +6,7 @@
 <a href="https://ca.linkedin.com/in/seqbal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://scholar.google.com/citations?user=8PZoDZkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>&nbsp;<a href="https://www.seqbal.com"><img src="https://img.shields.io/badge/Personal%20Webpage-FF5722?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;<a href="https://www.youtube.com/@Dr.SyedEqbal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;<a href="https://sheqai.com"><img src="https://img.shields.io/badge/SheQAI_Research-1a6bff?style=flat&logoColor=white" alt="SheQAI"/></a>
 </div>
 
-</div>
+
 
 <!--
 ### 
